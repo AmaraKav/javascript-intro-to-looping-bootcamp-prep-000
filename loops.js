@@ -10,6 +10,8 @@ function forLoop(array){
   return array;
 }
 
-function whileLoop(n){
-  
+function whileLoop(){
+  while(n > 0){
+    n--;
+  }
 }
