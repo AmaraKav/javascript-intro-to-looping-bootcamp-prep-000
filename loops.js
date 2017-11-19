@@ -18,5 +18,5 @@ function whileLoop(n){
 }
 
 function doWhile(array){
-  
+  array.length
 }
