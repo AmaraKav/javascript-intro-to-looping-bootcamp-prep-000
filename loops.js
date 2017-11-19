@@ -5,5 +5,6 @@ function forLoop(array){
     } else {
       console.log(`I am ${i} strange loops.`);
     }
+  array.push(i);
   }
 }
